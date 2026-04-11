@@ -1,0 +1,23 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Data files — raw CSVs not committed if large
+# (add individual exceptions per project as needed)
+*.csv
+!data/cleaned/*.csv
+
+# Power BI temp files
+*.pbix.lock
+
+# Environment
+.env
