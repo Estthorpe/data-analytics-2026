@@ -21,3 +21,24 @@ __pycache__/
 
 # Environment
 .env
+
+
+
+# -- PROJECT 02 — UKHLS DATA FILES (LICENCE: NOT FOR REDISTRIBUTION) ------
+project-02-healthcare-mental-health/data/raw/*.dta
+project-02-healthcare-mental-health/data/raw/*.tab
+project-02-healthcare-mental-health/data/raw/*.sav
+project-02-healthcare-mental-health/data/raw/*.csv
+
+# -- PROJECT 02 — PYTHON VIRTUAL ENVIRONMENT -------------------------------
+project-02-healthcare-mental-health/.venv/
+
+# -- PROJECT 02 — PYTHON CACHE AND JUPYTER CHECKPOINTS --------------------
+project-02-healthcare-mental-health/__pycache__/
+project-02-healthcare-mental-health/**/__pycache__/
+project-02-healthcare-mental-health/**/*.pyc
+project-02-healthcare-mental-health/.ipynb_checkpoints/
+project-02-healthcare-mental-health/**/.ipynb_checkpoints/
+
+# -- PROJECT 02 — ENVIRONMENT AND SECRETS ---------------------------------
+project-02-healthcare-mental-health/.env

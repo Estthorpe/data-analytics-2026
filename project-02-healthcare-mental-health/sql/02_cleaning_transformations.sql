@@ -1,0 +1,11 @@
+-- ============================================================
+-- Project:     Mental Health in the Workplace
+-- Prepared by: Clarivance Analytics Group
+-- Stage:       Data Cleaning and Transformation
+-- Date:        [Complete at Stage 4]
+-- Description: Clean raw UKHLS data, replace negative missing
+--              codes, construct target variable, engineer
+--              derived features, and export clean CSV.
+-- ============================================================
+
+-- [SQL to be written at Stage 4]

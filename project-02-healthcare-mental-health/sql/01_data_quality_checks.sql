@@ -1,0 +1,12 @@
+-- ============================================================
+-- Project:     Mental Health in the Workplace
+-- Prepared by: Clarivance Analytics Group
+-- Stage:       Data Quality Audit
+-- Date:        [Complete at Stage 3]
+-- Description: Full data quality assessment of UKHLS Wave 10
+--              raw data files. Documents row counts, missing
+--              value codes, skip patterns, join validation,
+--              and value distributions before cleaning begins.
+-- ============================================================
+
+-- [SQL to be written at Stage 3]
